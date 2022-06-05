@@ -1,0 +1,15 @@
+C:\Gb\first_seminar\bin\Debug\net6.0\first_seminar.exe
+C:\Gb\first_seminar\bin\Debug\net6.0\first_seminar.deps.json
+C:\Gb\first_seminar\bin\Debug\net6.0\first_seminar.runtimeconfig.json
+C:\Gb\first_seminar\bin\Debug\net6.0\first_seminar.dll
+C:\Gb\first_seminar\bin\Debug\net6.0\first_seminar.pdb
+C:\Gb\first_seminar\obj\Debug\net6.0\first_seminar.csproj.AssemblyReference.cache
+C:\Gb\first_seminar\obj\Debug\net6.0\first_seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gb\first_seminar\obj\Debug\net6.0\first_seminar.AssemblyInfoInputs.cache
+C:\Gb\first_seminar\obj\Debug\net6.0\first_seminar.AssemblyInfo.cs
+C:\Gb\first_seminar\obj\Debug\net6.0\first_seminar.csproj.CoreCompileInputs.cache
+C:\Gb\first_seminar\obj\Debug\net6.0\first_seminar.dll
+C:\Gb\first_seminar\obj\Debug\net6.0\refint\first_seminar.dll
+C:\Gb\first_seminar\obj\Debug\net6.0\first_seminar.pdb
+C:\Gb\first_seminar\obj\Debug\net6.0\first_seminar.genruntimeconfig.cache
+C:\Gb\first_seminar\obj\Debug\net6.0\ref\first_seminar.dll
